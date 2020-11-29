@@ -1,5 +1,5 @@
 {
-    "name": "cosyphp/laravel-admin-echarts",
+    "name": "lihe6666/laravel-admin-echarts",
     "description": "laravel-admin的echarts统计图表扩展包",
     "type": "library",
     "keywords": ["laravel-admin", "统计图表", "echarts"],
@@ -28,7 +28,7 @@
             "providers": [
                 "Encore\\ECharts\\EChartsServiceProvider"
             ]
-
         }
-    }
+    },
+	"minimum-stability": "dev"
 }
